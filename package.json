@@ -18,7 +18,7 @@
         "vue": "^3.4.0"
     },
     "dependencies": {
-        "@lottiefiles/dotlottie-vue": "^0.5.4",
+        "@lottiefiles/dotlottie-vue": "^0.5.8",
         "@vitejs/plugin-vue": "^5.2.1",
         "datatables.net": "^2.2.1",
         "datatables.net-bs5": "^2.2.1",
